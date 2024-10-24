@@ -1,0 +1,2 @@
+[11-Oct-2024 02:54:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/marakhrf/public_html/demo/alpana/billboard.php on line 3
+[12-Oct-2024 15:44:29 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ';' or ',' in /home4/marakhrf/public_html/demo/alpana/readpdf.php on line 8
